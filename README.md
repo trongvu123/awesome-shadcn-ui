@@ -23,6 +23,7 @@ A curated list of awesome things related to <a href='https://ui.shadcn.com/' tar
 ## Libs and Components
 
 - [aceternity-ui](https://ui.aceternity.com/) - Copy paste the most trending react components without having to worry about styling and animations.
+- [react-bits](https://www.reactbits.dev/) - mind ui.
 - [21st.dev](https://21st.dev/) - Open source npm for shadcn/ui components. Also: Dribble for design engineers. Install UI components via shadcn CLI, or publish your own.
 - [Motion-Primitives](https://motion-primitives.com/docs) - Motion-Primitives offers a collection of reusable animated components built with Motion and Tailwind CSS. 
 - [available components](https://ui-8dy8ykf4h-shadcn-pro.vercel.app/) - Copy paste available components ShadcnUI.
